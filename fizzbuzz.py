@@ -1,4 +1,4 @@
-def fizzbuzz()
+
 for num in range(1, 101):
                             #In the range, I used 101 instead of 101 because 100 stopped at 99. 
     
